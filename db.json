@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "studentname": "arshil zunzunia",
+      "studentemail": "arshil@gmail.com",
+      "branch": "civil",
+      "course": "javascript",
+      "mobile": "9237282980"
+    },
+    {
+      "id": 7,
+      "studentname": "kavita  saba shaikh",
+      "studentemail": "kavita@gmail.com",
+      "branch": "civil",
+      "course": "java",
+      "mobile": "92736322722"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
